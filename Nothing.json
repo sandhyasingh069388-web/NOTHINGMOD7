@@ -15,11 +15,6 @@
       "status": "approved",
       "max_devices": 1,
       "expiry_date": "2026-08-29"
-    },
-    "Both": {
-      "status": "approved",
-      "max_devices": 12,
-      "expiry_date": "2026-08-29"
     }
   }
 }
