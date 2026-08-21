@@ -25,6 +25,11 @@
       "hwid": [
         "ANY"
       ]
+    },
+    "Eurhrhrhh": {
+      "status": "approved",
+      "max_devices": 1,
+      "expiry_date": "2026-08-29"
     }
   }
 }
