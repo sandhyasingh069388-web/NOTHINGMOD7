@@ -10,5 +10,14 @@
       "spammer_hwid_2"
     ]
   },
-  "keys": {}
+  "keys": {
+    "NOTHINGVIP": {
+      "status": "approved",
+      "max_devices": 1,
+      "expiry_date": "2026-08-31",
+      "hwid": [
+        "0ba6d60ed4d4a558"
+      ]
+    }
+  }
 }
