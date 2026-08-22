@@ -34,6 +34,14 @@
       "hwid": [
         "75b766ac635415d7"
       ]
+    },
+    "NG-4D7W9P": {
+      "status": "approved",
+      "max_devices": 1,
+      "expiry_date": "2026-08-24",
+      "hwid": [
+        "a09df477120811a7"
+      ]
     }
   }
 }
