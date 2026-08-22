@@ -18,6 +18,14 @@
       "hwid": [
         "0ba6d60ed4d4a558"
       ]
+    },
+    "NOTHING_KEY_1": {
+      "status": "approved",
+      "max_devices": 1,
+      "expiry_date": "2026-08-24",
+      "hwid": [
+        "39d1e0508a21bd42"
+      ]
     }
   }
 }
