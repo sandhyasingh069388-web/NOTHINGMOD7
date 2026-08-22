@@ -42,6 +42,14 @@
       "hwid": [
         "a09df477120811a7"
       ]
+    },
+    "NG-TMJRG5": {
+      "status": "approved",
+      "max_devices": 1,
+      "expiry_date": "2026-08-24",
+      "hwid": [
+        "c9ea77cf8bd77b1c"
+      ]
     }
   }
 }
